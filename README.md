@@ -2,6 +2,6 @@
 
 Testing Triggers in Ansible
 
-Test save_artifacts in jenkins
+Test save_artifacts
 
 
