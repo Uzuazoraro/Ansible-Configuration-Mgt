@@ -3,3 +3,5 @@
 Testing Triggers in Ansible
 
 Test new configuration
+
+Test save_artifacts
