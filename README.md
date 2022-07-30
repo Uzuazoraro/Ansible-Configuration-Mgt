@@ -2,4 +2,4 @@
 
 Testing Triggers in Ansible
 
-Test save_artifact
+Testing if save_artifact is connected
