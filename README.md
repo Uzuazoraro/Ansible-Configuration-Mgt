@@ -2,4 +2,4 @@
 
 Testing Triggers in Ansible
 
-Testing save_artifact
+Testing save_artifact configuration
